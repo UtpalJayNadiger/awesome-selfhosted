@@ -1739,6 +1739,9 @@ Software for easy installation, management and configuration of self-hosted serv
 
 [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) and [Continuous deployment](https://en.wikipedia.org/wiki/Continuous_deployment) software and tools.
 
+[Digger](https://github.com/diggerhq/digger) - Digger is an open-source, self-hosted, orchestration tool for Terraform and OpenTofu that runs within your CI/CD system. ([Source Code](https://github.com/diggerhq/digger)) `Apache-2.0` `Docker`
+
+
 **Please visit [awesome-sysadmin/Continuous Integration & Continuous Deployment](https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment)**
 
 _Related: [Automation](#automation)_
